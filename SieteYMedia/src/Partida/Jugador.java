@@ -1,7 +1,5 @@
 package Partida;
 
-import java.util.Arrays;
-
 public class Jugador extends Thread {
 	
 	//Atributos nombre(Irrelevante), puntos, turno, hiloVivo("No significa que este muerto, solo que no coge carta")

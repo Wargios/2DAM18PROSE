@@ -1,5 +1,4 @@
 package Partida;
-import java.util.Arrays;
 
 //Clase partida, el objeto a compratir entre los hilos
 public class Partida7Media {

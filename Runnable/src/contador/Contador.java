@@ -8,6 +8,7 @@ import java.awt.Graphics;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+@SuppressWarnings("serial")
 public class Contador extends Applet implements Runnable, ActionListener{	
 	private Thread hilo;
 	long  contador = 0;
